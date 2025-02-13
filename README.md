@@ -1,2 +1,3 @@
 # TherapistAI
-This is the code for a Rogerian Therapist AI that was put on a Raspberry Pie, uses speech detection, audio output and inserted into a stuffed animal to create a therapist stuffed animal.
+
+My Rogerian Therapist AI is a program written in Python and ran on a Raspberry Pi. This Raspberry Pi was put into a stuffed animal where it uses speech recognition and audio output to generate Rogerian Therapy style responses for the user's issues.
